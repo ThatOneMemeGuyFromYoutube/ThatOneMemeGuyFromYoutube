@@ -1,12 +1,7 @@
-## Heading
+# Example Markdown File
 
-This is a paragraph with some **bold** and *italic* text.
+This is a paragraph in the Markdown file.
 
-<style>
-  p {
-    color: blue;
-    font-size: 16px;
-  }
-</style>
-
-This is another paragraph.
+- Item 1
+- Item 2
+- Item 3
