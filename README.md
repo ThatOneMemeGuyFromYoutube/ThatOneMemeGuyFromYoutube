@@ -1,7 +1,18 @@
-# Example Markdown File
+# Cool GPT prompts I found:
 
-This is a paragraph in the Markdown file.
+## 1. Awsome ChatGPT Prompts:
+[Their Site](https://prompts.chat/)
 
-- Item 1
-- Item 2
-- Item 3
+## 2. ChatGPT DAN:
+[Github](https://github.com/0xk1h0/ChatGPT_DAN)
+
+## 3. AI-Boost's Awsome Prompts:
+[Github](https://github.com/ai-boost/awesome-prompts)
+
+
+
+
+
+
+
+[]()
